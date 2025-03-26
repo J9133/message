@@ -1,4 +1,4 @@
-import {update, hide, get} from './func.js';
+import {update, hide, get} from '../func.js';
 const In =document.getElementById('In')
 let messagenum = 0
 const url = "https://api.github.com/repos/J9133/messageData/contents/data.json";
